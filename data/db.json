@@ -1,0 +1,297 @@
+{
+"products":[
+    {
+        "id":1,
+        "title":"Accessory",
+        "img":"./src/assets/images/13-141c94fedab74c5b84dbbf7210e9f6a1.jpg",
+        "details":[
+            {
+                "id":1,
+                "image":"../src/assets/images/41LPWpq2IWL._AC_.jpg",
+                "price":"200$",
+                "previousPrice":"300$"
+             },
+             {
+                "id":2,
+                "image":"../src/assets/images/61X3ttEIi2L._AC_UY1100_.jpg",
+                "price":"130.5$",
+                "previousPrice":"230.5$"
+             },
+             {
+                "id":3,
+                "image":"../src/assets/images/6185twsO60L._AC_UY1100_.jpg",
+                "price":"400$",
+                "previousPrice":"500$"
+             },
+             {
+                "id":4,
+                "image":"../src/assets/images/H300e29ec9cdb48ccb7ec2d827ae4b351u.jpg",
+                "price":"400$",
+                "previousPrice":"500$"
+             },
+             {
+                "id":5,
+                "image":"../src/assets/images/Hcab42c19b5734039aa35ec1fa18f28ebA.jpg_640x640q90.jpg",
+                "price":"150$",
+                "previousPrice":"250$"
+             },
+             {
+                "id":6,
+                "image":"../src/assets/images/il_570xN.2984477282_rqkf.webp",
+                "price":"600$",
+                "previousPrice":"700$"
+             }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Dresses",
+        "img":"./src/assets/images/1689067013873.png",
+        "details":[
+            {
+                "id":1,
+                "image":"../src/assets/images/téléchargement (2).jpg",
+                "price":"15$",
+                "previousPrice":"20$"
+             },
+             {
+                "id":2,
+                "image":"../src/assets/images/greenDress.webp",
+                "price":"12$",
+                "previousPrice":"15$"
+             },
+             {
+                "id":3,
+                "image":"../src/assets/images/Dress.jpg",
+                "price":"20$",
+                "previousPrice":"25$"
+             },
+             {
+                "id":4,
+                "image":"../src/assets/images/Floral Dress.jpg",
+                "price":"17.11$",
+                "previousPrice":"21$"
+             },
+             {
+                "id":5,
+                "image":"../src/assets/images/French Daisy Puff Sleeve Dress,French Vintage Dress,Fairy Dress,Nap Dress,Victorian Dress,Cottagecore Prom Chic Dress,Summer Dress,Gift.jpg",
+                "price":"25$",
+                "previousPrice":"31$"
+             },
+             {
+                "id":6,
+                "image":"../src/assets/images/H20e45fcde6164f32a2bc125df22fa0adE.jpg_640x640q90.jpg",
+                "price":"10$",
+                "previousPrice":"12$"
+             }
+        ]
+    },
+    {
+        "id":3,
+        "title":"Shoes",
+        "img":"./src/assets/images/Copy-of-LTK-Collages-3-819x1024.png",
+        "details":[
+            {
+                "id":1,
+                "image":"../src/assets/images/téléchargement (3).jpg",
+                "price":"15$",
+                "previousPrice":"20$"
+             },
+             {
+                "id":2,
+                "image":"../src/assets/images/Open Toe Ankle Strap Platform Espadrille Sandals.png",
+                "price":"40$",
+                "previousPrice":"50$"
+             },
+             {
+                "id":3,
+                "image":"../src/assets/images/One Band Gold Trim Espadrille Platform Wedge Sandal WHITE.png",
+                "price":"35$",
+                "previousPrice":"42$"
+             },
+             {
+                "id":4,
+                "image":"../src/assets/images/téléchargement (4).jpg",
+                "price":"12$",
+                "previousPrice":"15$"
+             },
+             {
+                "id":5,
+                "image":"../src/assets/images/Eid Shoes Collection 2022.jpg",
+                "price":"20$",
+                "previousPrice":"25$"
+             },
+             {
+                "id":6,
+                "image":"../src/assets/images/Get the We Heart It app!.jpg",
+                "price":"13$",
+                "previousPrice":"15.33$"
+             }
+        ]
+    },
+    {
+        "id":4,
+        "title":"Sunglasses",
+        "img":"./src/assets/images/sunglasses-glasses-sale-concept-trendy-260nw-2133622907.webp",
+        "details":[
+            {
+                "id":1,
+                "image":"../src/assets/images/Metal Frame Sunglasses With Case.png",
+                "price":"17$",
+                "previousPrice":"22$"
+             },
+             {
+                "id":2,
+                "image":"../src/assets/images/a1bc7444-e7ea-4a61-b624-c02bf3371591.jpg",
+                "price":"23$",
+                "previousPrice":"31$"
+             },
+             {
+                "id":3,
+                "image":"../src/assets/images/téléchargement (5).jpg",
+                "price":"12.36$",
+                "previousPrice":"15.76$"
+             },
+             {
+                "id":4,
+                "image":"../src/assets/images/téléchargement (6).jpg",
+                "price":"54.40$",
+                "previousPrice":"73.91$"
+             },
+             {
+                "id":5,
+                "image":"../src/assets/images/téléchargement (7).jpg",
+                "price":"51.74$",
+                "previousPrice":"63.93$"
+             },
+             {
+                "id":6,
+                "image":"../src/assets/images/8d25f523-d5c3-4402-8578-d9d65fd00795.jpg",
+                "price":"60.30$",
+                "previousPrice":"66.52$"
+             }
+        ]
+    },
+    {
+        "id":5,
+        "title":"Bags",
+        "img":"./src/assets/images/fb.webp",
+        "details":[
+            {
+                "id":1,
+                "image":"../src/assets/images/2e5d7b872d4d058885937ba805a04ffb.jpg",
+                "price":"36.22$",
+                "previousPrice":"45.57$"
+             },
+             {
+                "id":2,
+                "image":"../src/assets/images/90accffd7b7369141416e13469db94ca.jpg",
+                "price":"23$",
+                "previousPrice":"27.2$"
+             },
+             {
+                "id":3,
+                "image":"../src/assets/images/923fd5f4e0d6fa6a49f00d63c7c6c44f.jpg",
+                "price":"33.8$",
+                "previousPrice":"40.31$"
+             },
+             {
+                "id":4,
+                "image":"../src/assets/images/5665c0f8649b03937a5e5cd19b337532.jpg",
+                "price":"28.44$",
+                "previousPrice":"31.3$"
+             },
+             {
+                "id":5,
+                "image":"../src/assets/images/dfe6ab34179124065d5678c2dc30444d.jpg",
+                "price":"15.72$",
+                "previousPrice":"18.14$"
+             },
+             {
+                "id":6,
+                "image":"../src/assets/images/a039a2a92ac4c456e22028fa93dcdfa9.jpg",
+                "price":"30$",
+                "previousPrice":"37.89$"
+             }
+        ]
+    },
+    {
+        "id":6,
+        "title":"Hats",
+        "img":"./src/assets/images/71VJ0NfSFkL._AC_UF350,350_QL80_.jpg",
+        "details":[
+            {
+                "id":1,
+                "image":"../src/assets/images/firstHat.jpg",
+                "price":"8.99$",
+                "previousPrice":"9.69$"
+             },
+             {
+                "id":2,
+                "image":"../src/assets/images/secondHat.jpg",
+                "price":"10.5$",
+                "previousPrice":"11.46$"
+             },
+             {
+                "id":3,
+                "image":"../src/assets/images/thirdHat.jpg",
+                "price":"12.83$",
+                "previousPrice":"13.24$"
+             },
+             {
+                "id":4,
+                "image":"../src/assets/images/fourthHat.jpg",
+                "price":"5$",
+                "previousPrice":"5.87$"
+             },
+             {
+                "id":5,
+                "image":"../src/assets/images/fifthHat.jpg",
+                "price":"17.43$",
+                "previousPrice":"20.12$"
+             },
+             {
+                "id":6,
+                "image":"../src/assets/images/sixthHat.jpg",
+                "price":"13.3$",
+                "previousPrice":"14.84$"
+             }
+        ]
+    }
+],
+
+"questions":[
+   {
+      "id":1,
+      "text":"How can i update credit card information?"
+   },
+   {
+      "id":2,
+      "text":"How can i verify that my purchase or payment went through?"
+   },
+   {
+      "id":3,
+      "text":"How do i print a receipt for my purchase?"
+   },
+   {
+      "id":4,
+      "text":"How do i turn off automatic renewal?"
+   },
+   {
+      "id":5,
+      "text":"How do i make a payment/pay my bill?"
+   },
+   {
+      "id":6,
+      "text":"What is the return policy?"
+   },
+   {
+      "id":7,
+      "text":"What are the shipping options?"
+   },
+   {
+      "id":8,
+      "text":"how do i get a new password?"
+   }
+]
+}
