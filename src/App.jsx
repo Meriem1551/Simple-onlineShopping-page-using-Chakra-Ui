@@ -4,7 +4,7 @@ import { createBrowserRouter,
   RouterProvider,
 } from 'react-router-dom'
 //layouts
-import Header from './layouts/RootLayout'
+import Header from './layouts/rootLayout'
 import ShopLayout from './layouts/shopLayout'
 import HelpLayout from './layouts/helpLayout'
 

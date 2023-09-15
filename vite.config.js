@@ -5,4 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/Simple-onlineShopping-page-using-Chakra-Ui/',
   plugins: [react()],
+  server: {
+    port: 3000, // Change this to your desired port number
+  },
 })
